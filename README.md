@@ -1,2 +1,1 @@
-# ntp
-Nesne Tabanlı Programlama
+Nesne Tabanlı Programlama dersi C# uygulamalarını içerir.
